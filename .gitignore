@@ -1,5 +1,6 @@
-# Ignore logs folder
+# Ignore logs/zips folder
 logs
+zips
 
 # Ignore compiled executables
 *.exe
@@ -28,3 +29,6 @@ node_modules
 # Ignore specific project directories
 /tracks/
 /lyrics/
+
+rvc/models/embedders/contentvec
+
